@@ -1,0 +1,27 @@
+{
+  "name": "create-nrtgmp-app",
+  "version": "0.0.1",
+  "description": "Create cool NRTGMP App",
+  "main": "index.js",
+  "bin": {
+    "create-nrtgmp-app": "node index.js"
+  },
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamabhi747/create-nrtgmp-app.git"
+  },
+  "author": "Abhinandan Bhuse <i.am.abhi747@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamabhi747/create-nrtgmp-app/issues"
+  },
+  "homepage": "https://github.com/iamabhi747/create-nrtgmp-app#readme",
+  "dependencies": {
+    "chalk": "5.3.0",
+    "execa": "9.5.2",
+    "fs-extra": "11.2.0",
+    "prompts": "2.4.2"
+  }
+}
