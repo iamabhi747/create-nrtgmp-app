@@ -3,9 +3,7 @@
   "version": "0.0.1",
   "description": "Create cool NRTGMP App",
   "main": "index.js",
-  "bin": {
-    "create-nrtgmp-app": "node index.js"
-  },
+  "bin": "./index.js",
   "type": "module",
   "scripts": {},
   "repository": {
